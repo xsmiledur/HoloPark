@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using HoloToolkit.Unity.InputModule;
+//using HoloToolkit.Unity.InputModule;
 using UnityEngine.XR.WSA.Input;
 
 public class GameBehavior : MonoBehaviour {

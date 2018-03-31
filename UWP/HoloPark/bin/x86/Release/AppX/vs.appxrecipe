@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\bin\x86\Release\AppX</LayoutDir>
-    <RegisteredManifestChecksum>08897161E28D8F4E4CEFC6BF1D147E7B40226318936A8AD66CBB40E402527288</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>9475952BF6FE05DB6C1CE25AC4574BDB133662B8A77B89A885752E0E6DA84976</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>HoloPark_1.0.0.0_x86__pzq3xp76mxafg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>HoloPark_pzq3xp76mxafg!App</RegisteredUserModeAppID>
     <RegisteredPackageID>HoloPark</RegisteredPackageID>
@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-30T15:17:05.698</Modified>
+      <Modified>2018-03-31T13:04:43.607</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\bin\x86\Release\HoloPark.exe">
       <PackagePath>entrypoint\HoloPark.exe</PackagePath>
-      <Modified>2018-03-30T15:16:45.414</Modified>
+      <Modified>2018-03-31T13:04:05.549</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -501,7 +501,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2018-03-30T15:03:48.914</Modified>
+      <Modified>2018-03-31T13:01:15.008</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
@@ -537,17 +537,37 @@
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-01-29T19:43:06.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\PlaneFinding.dll">
+      <PackagePath>PlaneFinding.dll</PackagePath>
+      <Modified>2018-03-30T15:04:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\MicStreamSelector.dll">
+      <PackagePath>MicStreamSelector.dll</PackagePath>
+      <Modified>2018-03-30T15:04:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\GpuTiming.dll">
+      <PackagePath>GpuTiming.dll</PackagePath>
+      <Modified>2018-03-30T15:04:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\SharingClient.dll">
+      <PackagePath>SharingClient.dll</PackagePath>
+      <Modified>2018-03-30T15:04:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\SpatialUnderstanding.dll">
+      <PackagePath>SpatialUnderstanding.dll</PackagePath>
+      <Modified>2018-03-30T15:04:41.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2018-03-30T15:02:43.664</Modified>
+      <Modified>2018-03-31T12:59:44.922</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2018-03-30T15:02:11.057</Modified>
+      <Modified>2018-03-31T12:58:37.299</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2018-03-30T15:02:08.971</Modified>
+      <Modified>2018-03-31T12:58:34.595</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
@@ -555,248 +575,268 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2018-03-30T15:02:43.660</Modified>
+      <Modified>2018-03-31T12:59:44.916</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2018-03-30T15:02:11.254</Modified>
+      <Modified>2018-03-31T12:58:37.694</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2018-03-30T15:02:13.725</Modified>
+      <Modified>2018-03-31T12:59:42.068</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2018-03-30T15:02:08.970</Modified>
+      <Modified>2018-03-31T12:58:34.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\Data\sharedassets0.assets.resS">
+      <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
+      <Modified>2018-03-31T12:59:42.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2018-03-30T15:03:48.778</Modified>
+      <Modified>2018-03-31T13:01:14.871</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\Data\nativePlugins.txt">
+      <PackagePath>Data\nativePlugins.txt</PackagePath>
+      <Modified>2018-03-31T13:01:14.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
-      <Modified>2018-03-30T14:38:45.397</Modified>
+      <Modified>2017-09-28T08:28:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-30T15:16:49.954</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.TilemapModule.dll">
-      <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-      <Modified>2018-03-30T15:16:59.658</Modified>
+      <Modified>2018-03-31T13:04:11.538</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-      <Modified>2018-03-30T15:16:59.685</Modified>
+      <Modified>2018-03-31T13:04:32.353</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-      <Modified>2018-03-30T15:16:59.705</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UIElementsModule.dll">
-      <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-      <Modified>2018-03-30T15:16:59.766</Modified>
+      <Modified>2018-03-31T13:04:32.376</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-      <Modified>2018-03-30T15:16:59.811</Modified>
+      <Modified>2018-03-31T13:04:32.398</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.SpriteMaskModule.dll">
-      <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-      <Modified>2018-03-30T15:16:59.833</Modified>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.TilemapModule.dll">
+      <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:32.427</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UIElementsModule.dll">
+      <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:32.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
-      <Modified>2018-03-30T15:16:59.851</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.StyleSheetsModule.dll">
-      <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-      <Modified>2018-03-30T15:16:59.871</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.SpriteShapeModule.dll">
-      <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
-      <Modified>2018-03-30T15:16:59.890</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UIModule.dll">
-      <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-      <Modified>2018-03-30T15:16:59.907</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.VRModule.dll">
-      <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-      <Modified>2018-03-30T15:16:59.942</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.VideoModule.dll">
-      <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-      <Modified>2018-03-30T15:16:59.975</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.VehiclesModule.dll">
-      <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-      <Modified>2018-03-30T15:16:59.996</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.WindModule.dll">
-      <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.015</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.WebModule.dll">
-      <PackagePath>UnityEngine.WebModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.033</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UnityWebRequestWWWModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.054</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UnityConnectModule.dll">
-      <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.073</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UnityAnalyticsModule.dll">
-      <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.093</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UNETModule.dll">
-      <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.121</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UnityWebRequestTextureModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.150</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UnityWebRequestModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.167</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UnityWebRequestAudioModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.CoreModule.dll">
-      <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.420</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.ClothModule.dll">
-      <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.517</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.AudioModule.dll">
-      <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.541</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.dll">
-      <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2018-03-30T15:03:08.510</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.DirectorModule.dll">
-      <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.566</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.CrashReportingModule.dll">
-      <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.583</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.AssetBundleModule.dll">
-      <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.602</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.AIModule.dll">
-      <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.620</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.AccessibilityModule.dll">
-      <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.640</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.ARModule.dll">
-      <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.659</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.AnimationModule.dll">
-      <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.686</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.GameCenterModule.dll">
-      <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.721</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.PerformanceReportingModule.dll">
-      <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.740</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.ParticleSystemModule.dll">
-      <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.769</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.ParticlesLegacyModule.dll">
-      <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.806</Modified>
+      <Modified>2018-03-31T13:04:32.529</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.823</Modified>
+      <Modified>2018-03-31T13:04:32.550</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.SpriteMaskModule.dll">
+      <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:32.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.StyleSheetsModule.dll">
+      <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:32.587</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.SpriteShapeModule.dll">
+      <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:32.609</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.VideoModule.dll">
+      <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:32.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.VehiclesModule.dll">
+      <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:32.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UnityWebRequestWWWModule.dll">
+      <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:32.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.VRModule.dll">
+      <PackagePath>UnityEngine.VRModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:32.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.WindModule.dll">
+      <PackagePath>UnityEngine.WindModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:32.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.WebModule.dll">
+      <PackagePath>UnityEngine.WebModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:32.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UnityAnalyticsModule.dll">
+      <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:32.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UNETModule.dll">
+      <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:32.835</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UIModule.dll">
+      <PackagePath>UnityEngine.UIModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:32.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UnityConnectModule.dll">
+      <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:32.893</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UnityWebRequestTextureModule.dll">
+      <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:32.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UnityWebRequestModule.dll">
+      <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:32.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UnityWebRequestAudioModule.dll">
+      <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:32.962</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.846</Modified>
+      <Modified>2018-03-31T13:04:32.989</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.Physics2DModule.dll">
-      <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.883</Modified>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.AssetBundleModule.dll">
+      <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:33.026</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.ImageConversionModule.dll">
-      <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.916</Modified>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.ARModule.dll">
+      <PackagePath>UnityEngine.ARModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:33.049</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.GridModule.dll">
-      <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.931</Modified>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.AnimationModule.dll">
+      <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:33.088</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.AudioModule.dll">
+      <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:33.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.CrashReportingModule.dll">
+      <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:33.160</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.CoreModule.dll">
+      <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:33.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.ClothModule.dll">
+      <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:33.883</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.AIModule.dll">
+      <PackagePath>UnityEngine.AIModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:33.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.AccessibilityModule.dll">
+      <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:33.941</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.948</Modified>
+      <Modified>2018-03-31T13:04:33.966</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:00.964</Modified>
+      <Modified>2018-03-31T13:04:33.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.ParticlesLegacyModule.dll">
+      <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:34.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.Physics2DModule.dll">
+      <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:34.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.PerformanceReportingModule.dll">
+      <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:34.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.ParticleSystemModule.dll">
+      <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:34.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.GameCenterModule.dll">
+      <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:34.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.dll">
+      <PackagePath>UnityEngine.dll</PackagePath>
+      <Modified>2018-03-31T13:00:34.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.DirectorModule.dll">
+      <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:34.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.GridModule.dll">
+      <PackagePath>UnityEngine.GridModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:34.240</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-      <Modified>2018-03-30T15:17:01.001</Modified>
+      <Modified>2018-03-31T13:04:34.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.ImageConversionModule.dll">
+      <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
+      <Modified>2018-03-31T13:04:34.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2018-03-31T13:04:34.431</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
-      <Modified>2018-03-30T15:17:01.085</Modified>
+      <Modified>2018-03-31T13:04:34.551</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
-      <Modified>2018-03-30T15:17:01.164</Modified>
+      <Modified>2018-03-31T13:04:34.653</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2018-03-30T15:17:01.283</Modified>
+      <Modified>2018-03-31T13:04:34.925</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
-      <Modified>2018-03-30T15:17:01.330</Modified>
+      <Modified>2018-03-31T13:04:34.994</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.Analytics.dll">
       <PackagePath>UnityEngine.Analytics.dll</PackagePath>
-      <Modified>2018-03-30T15:17:01.353</Modified>
+      <Modified>2018-03-31T13:04:35.044</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2018-03-30T15:17:01.382</Modified>
+      <Modified>2018-03-31T13:04:35.328</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
-      <Modified>2018-03-30T15:17:01.407</Modified>
+      <Modified>2018-03-31T13:04:35.370</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2018-03-30T15:17:01.481</Modified>
+      <Modified>2018-03-31T13:04:35.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\GLTFSerializationUWP.dll">
+      <PackagePath>GLTFSerializationUWP.dll</PackagePath>
+      <Modified>2018-03-31T13:04:35.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\Assembly-CSharp.dll">
+      <PackagePath>Assembly-CSharp.dll</PackagePath>
+      <Modified>2018-03-31T13:04:31.741</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dell\Documents\Unity\HoloPark\UWP\HoloPark\bin\x86\Release\Core\HoloPark.exe">
       <PackagePath>HoloPark.exe</PackagePath>
-      <Modified>2018-03-30T15:17:05.676</Modified>
+      <Modified>2018-03-31T13:04:43.579</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

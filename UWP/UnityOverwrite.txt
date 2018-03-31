@@ -5,12 +5,13 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-HoloPark.sln: D08001CDCB9D1798CBCD8BB234DAF860
+HoloPark.sln: E2B92A25E5B545AFCA5D59CB3A85DC64
 project.json: 1D02BC64BAC0D041019673A1C4C51737
+GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C51737
 HoloPark\App.cs: 46AC23BAF2D13F25341A35E942BC33F8
-HoloPark\HoloPark.csproj: 94211541B47BEBF6DC553F497590BAB1
+HoloPark\HoloPark.csproj: 99F63436E596FACFD80B121EB70E996F
 HoloPark\HoloPark.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
-HoloPark\Package.appxmanifest: C46E0BFDC1B9B6AFDDC869771337F970
+HoloPark\Package.appxmanifest: 8965D36A13E1D4E41DFEDFE3AE3344F3
 HoloPark\project.json: 1D02BC64BAC0D041019673A1C4C51737
 HoloPark\Assets\SplashScreen.scale-200.png: A85C1D7624B6902CF8CEBD6F0200A826
 HoloPark\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
