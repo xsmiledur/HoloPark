@@ -15849,23 +15849,23 @@
     "UAP,Version=v10.0.10240": []
   },
   "packageFolders": {
-    "C:\\Users\\dell\\.nuget\\packages\\": {},
+    "C:\\Users\\Akihiro\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\Documents\\Unity\\HoloPark\\UWP\\HoloPark\\HoloPark.csproj",
+      "projectUniqueName": "C:\\Users\\Akihiro\\Documents\\GitHub\\HoloPark\\UWP\\HoloPark\\HoloPark.csproj",
       "projectName": "HoloPark",
-      "projectPath": "C:\\Users\\dell\\Documents\\Unity\\HoloPark\\UWP\\HoloPark\\HoloPark.csproj",
-      "projectJsonPath": "C:\\Users\\dell\\Documents\\Unity\\HoloPark\\UWP\\HoloPark\\project.json",
-      "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\Documents\\Unity\\HoloPark\\UWP\\HoloPark\\obj\\",
+      "projectPath": "C:\\Users\\Akihiro\\Documents\\GitHub\\HoloPark\\UWP\\HoloPark\\HoloPark.csproj",
+      "projectJsonPath": "C:\\Users\\Akihiro\\Documents\\GitHub\\HoloPark\\UWP\\HoloPark\\project.json",
+      "packagesPath": "C:\\Users\\Akihiro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Akihiro\\Documents\\GitHub\\HoloPark\\UWP\\HoloPark\\obj\\",
       "projectStyle": "ProjectJson",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Akihiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
@@ -15876,8 +15876,8 @@
       "frameworks": {
         "uap10.0.10240": {
           "projectReferences": {
-            "C:\\Users\\dell\\Documents\\Unity\\HoloPark\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
-              "projectPath": "C:\\Users\\dell\\Documents\\Unity\\HoloPark\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj"
+            "C:\\Users\\Akihiro\\Documents\\GitHub\\HoloPark\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
+              "projectPath": "C:\\Users\\Akihiro\\Documents\\GitHub\\HoloPark\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj"
             }
           }
         }
