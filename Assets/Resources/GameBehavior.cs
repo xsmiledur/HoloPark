@@ -45,6 +45,7 @@ public class GameBehavior : MonoBehaviour {
         if (frame > 100) {
             ++number;
             text.text = number.ToString();
+            text.text += "  " + Sum(data, height, width).ToString();
             Debug.Log(Sum(data, height, width));
             frame = 0;
         }
